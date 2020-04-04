@@ -77,6 +77,10 @@
     <DocumentationFile>bin\x64\Release\Ammeter.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Phidget21.NET, Version=2.1.9.30, Culture=neutral, PublicKeyToken=c2b1f2a3594bce52, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_MSIL\Phidget21.NET\v4.0_2.1.9.30__c2b1f2a3594bce52\Phidget21.NET.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
