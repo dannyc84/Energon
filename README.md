@@ -8,14 +8,14 @@ This is the second release of Energon.
 
 ## Project History
 
-The first release of Energon was edited by Davide Morelli, a PhD Student of Computer Science at University of Pise.                                                                                                                                                           His work gaves attention also to the hardware infrastructure underlying (classified by Pattern of Memory Access, CPU, Compilers, etc...) to estimate the energy consumptions of a running generic algorithm.
+The first release of Energon was edited by Davide Morelli, a PhD Student of Computer Science at the University of Pise.                                                                                                                                                           His work gave attention also to the hardware infrastructure underlying (classified by Pattern of Memory Access, CPU, Compilers, etc...) to estimate the energy consumptions of a running generic algorithm.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-It requires a couple of PC with a TCP connections, a phidgets ammeter and .NET installed on both a tested PC and a control PC.
-* You have a (or a couple) of Windows Machine(s) with a TCP connections;
+It requires a couple of PC with TCP connections, a phidgets ammeter and .NET installed on both a tested PC and a control PC.
+* You have a (or a couple) of Windows Machine(s) with TCP connections;
 * You have a Phidgets ammeter
 * You have installed the Phidget21.NET.dll compatible for your OS: https://www.phidgets.com/docs21/Language_-_C_Sharp#Libraries_and_Drivers.
 * You have installed the .NET Framework Runtime version 4.0 or above: https://dotnet.microsoft.com/download/dotnet-framework/net40.
@@ -30,7 +30,7 @@ It will appear a form in which you have to enter the code to be compiled (the la
 Once entered, click on the "Run" button to proceed with the execution of the entered code.
 The results will be stored in an existing SQL server table (to create it take a look at the file: [EndPointWCFLibraries/DataAccess.cs](EndPointWCFLibraries/DataAccess.cs)) and visible in new files created locally in the client machine.
 
-## Contributorss
+## Contributors
 
 Thanks to the following people who have contributed to this project:
 
