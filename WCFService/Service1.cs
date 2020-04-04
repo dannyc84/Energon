@@ -50,7 +50,7 @@ namespace WcfService
                 if ((service != null) && (service.State != CommunicationState.Closed))
                     service.Close();
             }
-            catch (Exception ex)
+            catch (Exception)
             {
             }
         }
