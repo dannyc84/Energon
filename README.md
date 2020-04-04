@@ -6,7 +6,7 @@ Energon is a framework to create and run software energy consumption tests.
 
 This is the second release of Energon.
 
-History
+## Project History
 
 The first release of Energon was edited by Davide Morelli, a PhD Student of Computer Science at University of Pise.                                                                                                                                                           His work gaves attention also to the hardware infrastructure underlying (classified by Pattern of Memory Access, CPU, Compilers, etc...) to estimate the energy consumptions of a running generic algorithm.
 
@@ -28,7 +28,7 @@ To use Energon, follow these steps:
 Open Energon solution through your Visual Studio IDE and press "Start" button to execute the application.
 It will appear a form in which you have to enter the code to be compiled (the largest in the left) and the parameters to be passed at run time (the smallest in the right). 
 Once entered, click on the "Run" button to proceed with the execution of the entered code.
-The results will be stored in an existing SQL server table (to create it take a look at the file: [EndPointWCFLibraries\DataAccess.cs](EndPointWCFLibraries\DataAccess.cs)) and visible in new files created locally in the client machine.
+The results will be stored in an existing SQL server table (to create it take a look at the file: [EndPointWCFLibraries/DataAccess.cs](EndPointWCFLibraries/DataAccess.cs)) and visible in new files created locally in the client machine.
 
 ## Contributorss
 
