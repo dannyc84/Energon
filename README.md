@@ -8,7 +8,7 @@ This is the second release of Energon.
 
 ## Project History
 
-The first release of Energon was edited by Davide Morelli, a PhD Student of Computer Science at the University of Pise.                                                                                                                                                           His work gave attention also to the hardware infrastructure underlying (classified by Pattern of Memory Access, CPU, Compilers, etc...) to estimate the energy consumptions of a running generic algorithm.
+The first release of Energon was edited by Davide Morelli, a PhD Student of Computer Science at the University of Pise.                                                                                                                                                       His work paid attention also to the hardware infrastructure underlying (classified by Pattern of Memory Access, CPU, Compilers, etc...) to estimate the energy consumptions of a running generic algorithm.
 
 ## Prerequisites
 
