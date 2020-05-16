@@ -2,7 +2,7 @@
 
 Energon is a framework to create and run software energy consumption tests. 
 
-## Project History
+## History
 
 The first release of Energon was edited by Davide Morelli, a PhD Student of Computer Science at the University of Pisa.                                                                                                                                                       His work paid attention also to the hardware infrastructure underlying (classified by Pattern of Memory Access, CPU, Compilers, etc...) to estimate the energy consumptions of a running generic algorithm.
 
