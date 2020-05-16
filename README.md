@@ -12,7 +12,7 @@ This repository contains the second release of Energon.
 
 Before you begin, ensure you have met the following requirements:
 
-It requires a couple of PC with TCP connections, a phidgets ammeter and .NET installed on both a tested PC and a control PC.
+It requires a couple of PC with TCP connections, a phidgets ammeter and .NET 4 (installed on both a tested PC and a control PC).
 * You have a (or a couple) of Windows Machine(s) with TCP connections;
 * You have a Phidgets ammeter
 * You have installed the Phidget21.NET.dll compatible for your OS: https://www.phidgets.com/docs21/Language_-_C_Sharp#Libraries_and_Drivers.
